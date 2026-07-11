@@ -249,7 +249,7 @@ Ao final do projeto será realizada uma comparação entre os algoritmos conside
 1. Clone este repositório.
 
 ```bash
-git clone https://github.com/SEU_USUARIO/CIENCIA_DE_DADOS_SISU.git
+git clone https://github.com/LuizHSDias/Ciencia_de_Dados_SISU
 ```
 
 2. Instale as bibliotecas necessárias.
