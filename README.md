@@ -35,11 +35,11 @@ Desenvolver e comparar modelos de classificação para responder à seguinte per
 - Padronização das Variáveis
 - Balanceamento das Classes (SMOTE)
 - Exportação da Base Processada
+- Implementação da Random Forest
 
 ### ⏳ Próximas etapas
 
 - Implementação da Decision Tree
-- Implementação da Random Forest
 - Implementação do Gradient Boosting
 - Ajuste de Hiperparâmetros
 - Avaliação dos Modelos
