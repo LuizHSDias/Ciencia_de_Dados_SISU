@@ -53,7 +53,7 @@ Desenvolver e comparar modelos de classificação para responder à seguinte per
 📦 CIENCIA_DE_DADOS_SISU
 │
 ├── 01_EDA_Preprocessamento.ipynb
-│
+├── Random_Forest.ipynb
 └── README.md
 ```
 
